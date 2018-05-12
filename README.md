@@ -21,12 +21,12 @@
     
   <b>Run Promises Method</b>
    
-    Run: node app-promise.js
+    Run: node app-promises.js
     Pass Url in Browser like 'http://localhost:3300/I/want/title/?address=http://google.com&address=facebook.com'
     
   <b>Run Streams Method</b>
    
-    Run: node app-stream.js
+    Run: node app-streams.js
     Pass Url in Browser like 'http://localhost:3400/I/want/title/?address=http://google.com&address=facebook.com'
     
   <b>Run Generator Method</b>
