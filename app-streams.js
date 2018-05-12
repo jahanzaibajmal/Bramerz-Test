@@ -74,7 +74,7 @@ app.get('*', (req, res) => {
 })
 
 app.listen(3400, () => {
-    console.log('Listening to port 3400');
+    console.log('Listening to port 3400 Streams');
 })
 
 module.exports.app = app;

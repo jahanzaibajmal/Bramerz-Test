@@ -83,7 +83,7 @@ app.get('*', (req, res) => {
 })
 
 app.listen(3300, () => {
-    console.log('Listening to port 3300');
+    console.log('Listening to port 3300 Promises');
 })
 
 module.exports.app = app;

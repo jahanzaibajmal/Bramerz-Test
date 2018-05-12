@@ -69,7 +69,7 @@ app.get('*', (req, res) => {
 })
 
 app.listen(3100, () => {
-    console.log('Listening to port 3100');
+    console.log('Listening to port 3100 Callback');
 })
 
 module.exports.app = app;
