@@ -16,22 +16,22 @@
     
   <b>Run Async Method</b>
    
-    Run: node app-callback.js
+    Run: node app-async.js
     Pass Url in Browser like 'http://localhost:3200/I/want/title/?address=http://google.com&address=facebook.com'
     
   <b>Run Promises Method</b>
    
-    Run: node app-callback.js
+    Run: node app-promise.js
     Pass Url in Browser like 'http://localhost:3300/I/want/title/?address=http://google.com&address=facebook.com'
     
   <b>Run Streams Method</b>
    
-    Run: node app-callback.js
+    Run: node app-stream.js
     Pass Url in Browser like 'http://localhost:3400/I/want/title/?address=http://google.com&address=facebook.com'
     
   <b>Run Generator Method</b>
    
-    Run: node app-callback.js
+    Run: node app-generator.js
     Pass Url in Browser like 'http://localhost:3500/I/want/title/?address=http://google.com&address=facebook.com'
     
 <h2>Test Cases:</h2>
