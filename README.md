@@ -16,7 +16,7 @@
     
   <b>Run Async Method</b>
    
-    Run: node app-async.js
+    Run: node app-async.js
     Pass Url in Browser like 'http://localhost:3200/I/want/title/?address=http://google.com&address=facebook.com'
     
   <b>Run Promises Method</b>
