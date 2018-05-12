@@ -1,4 +1,3 @@
-const fetch = require('node-fetch');
 const express = require('express');
 const cheerio = require('cheerio');
 const request = require('co-request');
